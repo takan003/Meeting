@@ -7,7 +7,7 @@
 # Make a Copy 建立副本使用
 👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[簡易影片介紹](https://youtu.be/0CByFYU3mig)）
 # Manual 使用介紹
-👉 [English version](#english-version) 👉 [中文版本](#中文版本)
+👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)
 # Suggestion 建議檔案
 For the files required for the English version, please use the "Make a Copy" method. It is recommended to obtain the 3 files in the red frame in the picture.(spreadsheet main program, and two template files)  
 ![English Version](https://www.php-pie.net/images/gas/meeting/Meeting_English.png "English Version")
@@ -16,7 +16,7 @@ For the files required for the English version, please use the "Make a Copy" met
 # English version
 To Be Continued  
 # 中文版本使用介紹
-## 快速使用
+## 快速使用預覽
 ### 取得檔案
 請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中。建議您除了主程式的試算表之外，可以同時將「臺灣公務機關常用內部會議通知單」與「臺灣公務機關常用內部會議簽到表」複製過去，第一次試用時，可以做為測試用的檔案。（請將檔案名稱中的「的副本」更名清除）
 ![Step001](https://www.php-pie.net/images/gas/meeting/meeting_c_001.gif "Step001")
@@ -33,6 +33,6 @@ To Be Continued
 ### 製作簽名單
 開啟本程式提供的「臺灣公務機關常用內部會議簽到表」（範本）後，利用試算表進階功能選單的「製作會議簽到表(臺灣專用)」，就能輕鬆完成。
 ![Step006](https://www.php-pie.net/images/gas/meeting/meeting_c_006.gif "Step006")
-
+## 各項功能說明
 
 
