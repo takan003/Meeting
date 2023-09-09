@@ -51,6 +51,5 @@ To Be Continued
 * 使用檔案名稱的時候，請將檔案放置於試算表同一個資料夾下。若不是使用Google格式的文件，比如程式的logo圖片，檔案名稱需要輸入「Meeting.png」。
 * 示範例子為共同附件用logo圖片，第一位出席成員個別附件為資料夾共用連結，內附5張圖片。
 ![Step009](https://www.php-pie.net/images/gas/meeting/meeting_c_009.gif "Step009")
-
-
+![Step009](https://www.php-pie.net/images/gas/meeting/meeting_c_009.gif "Step009")
 
