@@ -7,7 +7,7 @@
 3. No matter how many attachments you have, you can send them, and attachments can be divided into common attachments and individual attachments.
 無論多少附件都可以寄送，附件還可以分為共同附件與個別附件。
 # Make a Copy 建立副本使用
-👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[簡易影片介紹](https://youtu.be/0CByFYU3mig)）
+👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[快速預覽影片](https://youtu.be/0CByFYU3mig)）
 # Manual 使用介紹
 👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)
 # Suggestion 建議檔案
