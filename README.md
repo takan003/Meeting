@@ -7,11 +7,11 @@
 3. No matter how many attachments you have, you can send them, and attachments can be divided into common attachments and individual attachments.  
 無論多少附件都可以寄送，附件還可以分為共同附件與個別附件。
   
-:broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體 :broken_heart:
+:broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體  👉 建議暫時解決方式：列印成PDF
 # Make a Copy 建立副本使用
-👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[快速導覽影片](https://youtu.be/0CByFYU3mig)）
+👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) 
 # Manual 使用介紹
-👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)
+👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)（[快速導覽影片](https://youtu.be/0CByFYU3mig)）
 # Suggestion 建議檔案
 For the files required for the English version, please use the "Make a Copy" method. It is recommended to obtain the 3 files in the red frame in the picture.(spreadsheet main program, and two template files)  
 ![English Version](https://www.php-pie.net/images/gas/meeting/Meeting_English.png "English Version")
@@ -49,6 +49,7 @@ For the files required for the English version, please use the "Make a Copy" met
 2. 名單中6個預設欄位請務必保留，在「出列席」欄位中，標註「p」表示成為出席身分，標註「a」表示成為列席身分。
    - 小技巧：「出列席」欄位空白時，等於保留成員但不處理。
 3. 排列順序也是匯入會議通知單或製作簽名表時顯示的順序，您也可以新增自訂自己的欄位，方便資料分類整理。
+![Step007-1](https://www.php-pie.net/images/gas/meeting/meeting_c_0075.gif "Step007-1")
 ### 匯入出列席名單至會議通知單
 打開新增的會議通知單檔案，分別在需要的位置上輸入「{{出席}}」與「{{列席}}」，接著利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，即可將名單與通知單彙整在一起。
 1. 在會議通知單相應的位置上輸入{{出席}}、{{列席}}，使用既有檔案新增的時候，可能需要清除之前套印的名單。
