@@ -6,6 +6,8 @@
 開會名單隨您自訂、自由更換，只要一鍵就能寄發會議通知，或者製作簽到表。
 3. No matter how many attachments you have, you can send them, and attachments can be divided into common attachments and individual attachments.
 無論多少附件都可以寄送，附件還可以分為共同附件與個別附件。
+  
+:broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體 :broken_heart:
 # Make a Copy 建立副本使用
 👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[快速預覽影片](https://youtu.be/0CByFYU3mig)）
 # Manual 使用介紹
