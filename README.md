@@ -67,5 +67,20 @@ To Be Continued
 - 示範：將剛剛新增的欄位「綽號」，套印到信件內容中。
 ![Step012](https://www.php-pie.net/images/gas/meeting/meeting_c_012.gif "Step012")
 ### 將會議行程加入「Google日曆」
+在寄發出去的會議通知信中，程式會依據您所填寫的會議資料，為您自動建立「Google日曆」的連結，方便收信的會議成員可以管理行程。
+![Step013](https://www.php-pie.net/images/gas/meeting/meeting_c_013.gif "Step013")
 ### 製作簽到表
+最後，會議場合最重要的簽到表，總共提供3種格式：
+1. 臺灣（中文）專用格式
+![Step014](https://www.php-pie.net/images/gas/meeting/meeting_c_014.gif "Step014")
+2. 歐美格式（含成員資料）
+![Step015](https://www.php-pie.net/images/gas/meeting/meeting_c_015.gif "Step016")
+3. 歐美格式（不含成員資料）
+![Step016](https://www.php-pie.net/images/gas/meeting/meeting_c_016.gif "Step016")
 ### 簽到表自訂顯示組合
+如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。
+![Step017](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif "Step017")
+# Visit & Sponsor 參觀與贊助
+Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.:heart:  
+歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
+Copyright (c) 2023 Chang, Chia-Cheng 張家誠
