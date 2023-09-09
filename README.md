@@ -9,7 +9,7 @@
   
 :broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體 :broken_heart:
 # Make a Copy 建立副本使用
-👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[快速預覽影片](https://youtu.be/0CByFYU3mig)）
+👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) （[快速導覽影片](https://youtu.be/0CByFYU3mig)）
 # Manual 使用介紹
 👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)
 # Suggestion 建議檔案
@@ -37,7 +37,7 @@ For the files required for the English version, please use the "Make a Copy" met
 ### 製作簽名單
 開啟本程式提供的「臺灣公務機關常用內部會議簽到表」（範本）後，利用試算表進階功能選單的「製作會議簽到表(臺灣專用)」，就能輕鬆完成。
 ![Step006](https://www.php-pie.net/images/gas/meeting/meeting_c_006.gif "Step006")
-## 各項功能說明
+## 各項功能詳細說明
 ### 開啟新的會議
 利用既有的「臺灣公務機關常用內部會議通知單」（範本）建立副本後，將會議改為新的名稱，就能開啟新的會議，當然，您自己也可以準備符合自己版面需求的會議通知檔案。將樣版檔案名稱同步更改。更換樣版檔案的方式有2種：
 1. 使用會議通知單檔案的名稱，檔案需要與試算放在同一個資料夾。
