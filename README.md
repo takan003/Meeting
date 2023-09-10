@@ -88,6 +88,7 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。
 ![Step017](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif "Step017")
 # English version
+:grin: To Be Continued :grin:  
 ## Quick preview
 ### Make a copy
 ### Founction menu "Advanced"
@@ -103,4 +104,3 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 ### Add meeting schedule to Google Calendar
 ### Make a sign-in sheet
 ### Customized display combination of sign-in sheet
-:grin: To Be Continued :grin:  
