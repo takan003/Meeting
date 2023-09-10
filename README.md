@@ -18,12 +18,21 @@ For the files required for the English version, please use the "Make a Copy" met
 中文版本，請以「建立副本」的方式取得圖片中紅色框框的3個檔案。(試算表主程式，與兩個範本檔案)
 ![中文版本](https://www.php-pie.net/images/gas/meeting/Meeting_Chinese.png "中文版本")
 # English version
-## Quick Preview
-### Make A Copy
-### Founction Menu "Advanced"
-### Send A Meeeting Notice
+## Quick preview
+### Make a copy
+### Founction menu "Advanced"
+### Send a meeeting notice
 ## Manual
-### Build A New Meeting
+### Build a new meeting
+### Create a new attendance list
+### Import attendance list to meeting notice
+### Add attachments
+### Send a meeeting notice
+### Add a column to the list
+### Apply field data to message content
+### Add meeting schedule to Google Calendar
+### Make a sign-in sheet
+### Customized display combination of sign-in sheet
 :grin: To Be Continued :grin:  
 # 中文版本使用介紹
 ## 快速使用預覽
