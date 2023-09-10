@@ -18,6 +18,12 @@ For the files required for the English version, please use the "Make a Copy" met
 中文版本，請以「建立副本」的方式取得圖片中紅色框框的3個檔案。(試算表主程式，與兩個範本檔案)
 ![中文版本](https://www.php-pie.net/images/gas/meeting/Meeting_Chinese.png "中文版本")
 # English version
+## Quick Preview
+### Make A Copy
+### Founction Menu "Advanced"
+### Send A Meeeting Notice
+## Manual
+### Build A New Meeting
 :grin: To Be Continued :grin:  
 # 中文版本使用介紹
 ## 快速使用預覽
