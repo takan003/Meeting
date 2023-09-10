@@ -9,31 +9,18 @@
   
 :broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體  👉 建議暫時解決方式：列印成PDF
 # Make a Copy 建立副本使用
-👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link) 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link) 
-# Manual 使用介紹
-👉 [English version](#english-version) 👉 [中文版本](#中文版本使用介紹)（[快速導覽影片](https://youtu.be/0CByFYU3mig)）
-# Suggestion 建議檔案
+👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link)  👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link)
+## Suggestion 建議檔案
 For the files required for the English version, please use the "Make a Copy" method. It is recommended to obtain the 3 files in the red frame in the picture.(spreadsheet main program, and two template files)  
 ![English Version](https://www.php-pie.net/images/gas/meeting/Meeting_English.png "English Version")
 中文版本，請以「建立副本」的方式取得圖片中紅色框框的3個檔案。(試算表主程式，與兩個範本檔案)
 ![中文版本](https://www.php-pie.net/images/gas/meeting/Meeting_Chinese.png "中文版本")
-# English version
-## Quick preview
-### Make a copy
-### Founction menu "Advanced"
-### Send a meeeting notice
-## Manual
-### Build a new meeting
-### Create a new attendance list
-### Import attendance list to meeting notice
-### Add attachments
-### Send a meeeting notice
-### Add a column to the list
-### Apply field data to message content
-### Add meeting schedule to Google Calendar
-### Make a sign-in sheet
-### Customized display combination of sign-in sheet
-:grin: To Be Continued :grin:  
+# Manual 使用介紹
+👉 [中文版本](#中文版本使用介紹)（[快速導覽影片](https://youtu.be/0CByFYU3mig)） 👉 [English version](#english-version)
+# Visit & Sponsor 參觀與贊助
+Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.:heart:  
+歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
+Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
@@ -105,7 +92,20 @@ For the files required for the English version, please use the "Make a Copy" met
 ### 簽到表自訂顯示組合
 如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。
 ![Step017](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif "Step017")
-# Visit & Sponsor 參觀與贊助
-Welcome to my website [PHP-Pie](https://php-pie.net "PHP-Pie"), there may be some tools, programs, or even inspiration that can help you. We are more than happy to accept your [sponsor](https://p.ecpay.com.tw/36FF207 "sponsor")ship if you wish.:heart:  
-歡迎參觀我的網站 [PHP-Pie](https://php-pie.net "PHP-Pie")，裡頭也許會有一些能幫助您的工具、程式，甚至是提供靈感。如果您願意的話，也非常樂意接受您的[打賞](https://p.ecpay.com.tw/36FF207 "打賞")。:heart:  
-Copyright (c) 2023 Chang, Chia-Cheng 張家誠
+# English version
+## Quick preview
+### Make a copy
+### Founction menu "Advanced"
+### Send a meeeting notice
+## Manual
+### Build a new meeting
+### Create a new attendance list
+### Import attendance list to meeting notice
+### Add attachments
+### Send a meeeting notice
+### Add a column to the list
+### Apply field data to message content
+### Add meeting schedule to Google Calendar
+### Make a sign-in sheet
+### Customized display combination of sign-in sheet
+:grin: To Be Continued :grin:  
