@@ -10,11 +10,6 @@
 :broken_heart: 目前尚未解決問題：轉存PDF或下載為office格式，無法顯示標楷體  👉 建議暫時解決方式：列印成PDF
 # Make a Copy 建立副本使用
 👉 [中文版本](https://drive.google.com/drive/folders/1yr6punJZNZVUenghDkB8wNjjmtX2UrCi?usp=drive_link)  👉 [English version](https://drive.google.com/drive/folders/1tP3XyGBg0WUkPT6M0ajd_ktYzEDealVV?usp=drive_link)
-## Suggestion 建議檔案
-For the files required for the English version, please use the "Make a Copy" method. It is recommended to obtain the 3 files in the red frame in the picture.(spreadsheet main program, and two template files)  
-![English Version](https://www.php-pie.net/images/gas/meeting/Meeting_English.png "English Version")
-中文版本，請以「建立副本」的方式取得圖片中紅色框框的3個檔案。(試算表主程式，與兩個範本檔案)
-![中文版本](https://www.php-pie.net/images/gas/meeting/Meeting_Chinese.png "中文版本")
 # Manual 使用介紹
 👉 [中文版本](#中文版本使用介紹)（[快速導覽影片](https://youtu.be/0CByFYU3mig)） 👉 [English version](#english-version)
 # Visit & Sponsor 參觀與贊助
