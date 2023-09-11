@@ -21,11 +21,12 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 # 中文版本使用介紹
 ## 快速使用預覽
 ### 取得檔案
-請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中。建議您除了主程式的試算表之外，可以同時將「臺灣公務機關常用內部會議通知單」與「臺灣公務機關常用內部會議簽到表」複製過去，第一次試用時，可以做為測試用的檔案。（請將檔案名稱中的「的副本」更名清除）[示範教學](https://www.php-pie.net/images/gas/meeting/meeting_c_001.gif)
+請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中。建議您除了主程式的試算表之外，可以同時將「臺灣公務機關常用內部會議通知單」與「臺灣公務機關常用內部會議簽到表」複製過去，第一次試用時，可以做為測試用的檔案。（請將檔案名稱中的「的副本」更名清除）  
+[示範教學：取得檔案](https://www.php-pie.net/images/gas/meeting/meeting_c_001.gif)
 ### 開啟程式取得進階功能
-請打開我要開會的試算表，稍微等待後上方功能選單出現「進階功能」（第一次可能需要重新整理網頁1-2次），請試試看進階功能的「寄發會議通知單」，第一次使用時需要您的授權。
-![Step002](https://www.php-pie.net/images/gas/meeting/meeting_c_002.gif "Step002")
-![Step003](https://www.php-pie.net/images/gas/meeting/meeting_c_003.gif "Step003")
+請打開我要開會的試算表，稍微等待後上方功能選單出現「進階功能」（第一次可能需要重新整理網頁1-2次），請試試看進階功能的「寄發會議通知單」，第一次使用時需要您的授權。  
+[示範教學：顯示進階功能](https://www.php-pie.net/images/gas/meeting/meeting_c_002.gif)  
+[示範教學：授權使用](https://www.php-pie.net/images/gas/meeting/meeting_c_003.gif)
 ### 開啟會議通知單範本，匯入出列席人員
 開啟本程式提供的「臺灣公務機關常用內部會議通知單」（範本）後，利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，將名單與通知單彙整在一起。
 ![Step004](https://www.php-pie.net/images/gas/meeting/meeting_c_004.gif "Step004")
