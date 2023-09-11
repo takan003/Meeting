@@ -28,8 +28,8 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 [示範教學：顯示進階功能](https://www.php-pie.net/images/gas/meeting/meeting_c_002.gif)  
 [示範教學：授權使用](https://www.php-pie.net/images/gas/meeting/meeting_c_003.gif)
 ### 開啟會議通知單範本，匯入出列席人員
-開啟本程式提供的「臺灣公務機關常用內部會議通知單」（範本）後，利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，將名單與通知單彙整在一起。
-![Step004](https://www.php-pie.net/images/gas/meeting/meeting_c_004.gif "Step004")
+開啟本程式提供的「臺灣公務機關常用內部會議通知單」（範本）後，利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，將名單與通知單彙整在一起。  
+[示範教學：匯入出列席人員](https://www.php-pie.net/images/gas/meeting/meeting_c_004.gif)
 ### 寄發會議通知
 幫第一位輸入電子信箱後，寄給自己一封會議通知。
 ![Step005](https://www.php-pie.net/images/gas/meeting/meeting_c_005.gif "Step005")
