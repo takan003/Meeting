@@ -68,7 +68,7 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 1. 錯誤：電子信箱格式有問題。
 2. 錯誤：個別附件格式有問題。
 - 共同附件格式錯誤時，不會寄送也不會記錄。
-### 新增名單的欄位
+### 自由新增出席名單中的欄位
 只要不要刪除或修改紅色欄位與標題，您可以在名單工作表中新增自己的欄位，隨意調整欄位的順序，方便您整理資料。
 ![Step011](https://www.php-pie.net/images/gas/meeting/meeting_c_011s.gif "Step011")
 ### 將欄位資料套用到信件內容
@@ -119,8 +119,14 @@ You can add necessary attachments to the meeting notification letter, common att
 1. There are 3 ways to add attachments, (1) file name, (2) file sharing link, (3) folder sharing link.
 2. When using a file name, please place the file in the same folder of the spreadsheet. If you are not using a Google format file, such as a program logo image, you need to enter "Meeting.png" as the file name.
 ### Send a meeeting notice
-### Add a column to the list
+As long as you provide the correct email address, the meeting notice can be sent. The delivery result will be recorded in the "Notice" field of the list sheet. There are two situations where delivery cannot be performed:
+1. Error: There is a problem with the email format.
+2. Error: There is a problem with the format of some attachments.
+ - If the common attachment format is incorrect, it will not be sent or recorded.
+### Add a custom column to the list
+As long as you do not delete or modify the red columns and titles, you can add your own columns to the "List" sheet and adjust the order of the columns at will to facilitate your data organization.
 ### Apply field data to message content
+By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.
 ### Add meeting schedule to Google Calendar
 ### Make a sign-in sheet
 ### Customized display combination of sign-in sheet
