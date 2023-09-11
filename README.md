@@ -1,4 +1,6 @@
 ![Meeting!](https://www.php-pie.net/images/gas/meeting/Meeting.png "Meeting!")
+# Fix bugs 🐛
+2023-09-11 中文版修復臺灣專用簽到表會產出2個「出席名單」。（fixed chinese version's bug）
 # Features 特色
 1. No installations, no bloatware, no updates; this works in any modern browser, including Google Chrome, Firefox, Edge and Safari.  
 不需要安裝，不需要外掛，不用升級，適用於最新版本的各種瀏覽器。
@@ -37,8 +39,8 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 ## 各項功能詳細說明
 ### 開啟新的會議
 利用既有的「臺灣公務機關常用內部會議通知單」（範本）建立副本後，將會議改為新的名稱，就能開啟新的會議，當然，您自己也可以準備符合自己版面需求的會議通知檔案。將樣版檔案名稱同步更改。更換樣版檔案的方式有2種：
-1. 使用會議通知單檔案的名稱，檔案需要與試算放在同一個資料夾。
-2. 使用會議通知單檔案的共同連結，檔案位置則無限制。
+1. 使用會議通知單檔案的名稱，檔案需要與試算表放在同一個資料夾。
+2. 使用會議通知單檔案的共用連結，檔案位置則無限制。
 ![Step007](https://www.php-pie.net/images/gas/meeting/meeting_c_007.gif "Step007")
 ### 建立新的出列席名單
 請利用試算表的「名單」工作表，建立起新一輪的「出列席名單」，用來匯入至會議通知單或者製作簽名表。
@@ -51,12 +53,12 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 打開新增的會議通知單檔案，分別在需要的位置上輸入「{{出席}}」與「{{列席}}」，接著利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，即可將名單與通知單彙整在一起。
 1. 在會議通知單相應的位置上輸入{{出席}}、{{列席}}，使用既有檔案新增的時候，可能需要清除之前套印的名單。
 2. 在「名單」工作表的「出列席」欄位中，試著變更出列席人員的屬性，將第1位不是動物的出席者改為列席（a），其他動物則為出席（p）。
-3. 名單中成員排列的順序，就是匯入時的順序。
+3. 名單中成員排列的順序，就是匯入時（顯示）的順序。
 ![Step008](https://www.php-pie.net/images/gas/meeting/meeting_c_008.gif "Step008")
 ### 添加附件
-您可以為會議通知添加必要的附件，所有成員都收到的共同附件，或者只限某位成員的個別附件，附件數量沒有限制。
-* 附件添加方式3種，(1)檔案名稱、(2)檔案共用連結與(3)資料夾共用連結。
-* 使用檔案名稱的時候，請將檔案放置於試算表同一個資料夾下。若不是使用Google格式的文件，比如程式的logo圖片，檔案名稱需要輸入「Meeting.png」。
+您可以為會議通知添加必要的附件，所有成員都收到的共同附件，或者只限某位成員的個別附件，而且附件數量沒有限制。
+1. 附件添加方式3種，(1)檔案名稱、(2)檔案共用連結與(3)資料夾共用連結。
+2. 使用檔案名稱的時候，請將檔案放置於試算表同一個資料夾下。若不是使用Google格式的文件，比如程式的logo圖片，檔案名稱需要輸入「Meeting.png」。
   - 示範：共同附件用logo圖片，第一位出席成員個別附件為資料夾共用連結，內附5張圖片。
 ![Step009](https://www.php-pie.net/images/gas/meeting/meeting_c_009.gif "Step009")
 寄發通知單效果
@@ -95,11 +97,27 @@ Please be sure to use the "Make a copy" method to copy the file to your Google D
 ### Founction menu "Advanced"
 Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.
 ### Send a meeeting notice
+After entering the email address for the first person, send yourself a meeting notice.
 ## Manual
 ### Build a new meeting
+Use the "Notice of International Contributor Recognition Conference" (template) provided by us to create a copy, change the name and content to your own, and start a new meeting. Of course, you can also prepare a layout that meets your needs as a new meeting notice file. Next, please enter the file of the new meeting into "Notice's Template". There are two ways to enter it:
+1. Use the name of the meeting notice file. The file needs to be placed in the same folder as the spreadsheet.
+2. Use the shared link of the meeting note file, and there is no limit on the file location.
 ### Create a new attendance list
+Please use the "List" sheet of the spreadsheet to create a new "Attendance List" for importing into the meeting notice or making a sign-in sheet.
+1. You can create many different meeting lists in your spreadsheet. Just name "List" the one you want to use to import meeting notices or create sign-in sheets.
+2. Be sure to keep the 6 default red fields in the list. In the "Present" field, mark "p" to indicate "present", and mark "a" to indicate "in attendance".
+   - Tips: When the "Present" field is blank, it means that the member is retained but not processed.
+3. The sorting order is also the order displayed when importing meeting notices or making signature forms. You can also add and customize your own fields to facilitate classifying and organizing data.
 ### Import attendance list to meeting notice
+In Taiwan, we will display the attendance list on the meeting notice. Open the newly added meeting notice file, enter "{{present}}" and "{{attendance}}" in the positions you want, and then use the "Merge "List" to Notice (Taiwan Type)" in the advanced menu , you can put the list and the notice together.
+1. Enter {{present}} and {{attendance}} in the position you want on the meeting notice. When editing using the previous file, you may need to clear the previously overprinted list.
+2. In the "Present" column of the "List" sheet, try to change the attendance of each person. Change the first attendee who is not an animal to attend (a), and other animals to present (p) .
+3. The order in which the members are listed is the order in which they are imported (displayed).
 ### Add attachments
+You can add necessary attachments to the meeting notification letter, common attachments received by all members, or individual attachments limited to a certain member, and there is no limit to the number of attachments.
+1. There are 3 ways to add attachments, (1) file name, (2) file sharing link, (3) folder sharing link.
+2. When using a file name, please place the file in the same folder of the spreadsheet. If you are not using a Google format file, such as a program logo image, you need to enter "Meeting.png" as the file name.
 ### Send a meeeting notice
 ### Add a column to the list
 ### Apply field data to message content
