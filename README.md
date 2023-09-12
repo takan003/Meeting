@@ -22,73 +22,68 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 ## 快速使用預覽
 ### 取得檔案
 請務必使用「建立副本」的方式將檔案複製到您的雲端硬碟中。建議您除了主程式的試算表之外，可以同時將「臺灣公務機關常用內部會議通知單」與「臺灣公務機關常用內部會議簽到表」複製過去，第一次試用時，可以做為測試用的檔案。（請將檔案名稱中的「的副本」更名清除）  
-[示範教學：取得檔案](https://www.php-pie.net/images/gas/meeting/meeting_c_001.gif)
+[示範教學1：取得檔案](https://www.php-pie.net/images/gas/meeting/meeting_c_001.gif)
 ### 開啟程式取得進階功能
 請打開我要開會的試算表，稍微等待後上方功能選單出現「進階功能」（第一次可能需要重新整理網頁1-2次），請試試看進階功能的「寄發會議通知單」，第一次使用時需要您的授權。  
-[示範教學：顯示進階功能](https://www.php-pie.net/images/gas/meeting/meeting_c_002.gif)  
-[示範教學：授權使用](https://www.php-pie.net/images/gas/meeting/meeting_c_003.gif)
+[示範教學2-1：顯示進階功能](https://www.php-pie.net/images/gas/meeting/meeting_c_002.gif)  
+[示範教學2-2：授權使用](https://www.php-pie.net/images/gas/meeting/meeting_c_003.gif)
 ### 開啟會議通知單範本，匯入出列席人員
 開啟本程式提供的「臺灣公務機關常用內部會議通知單」（範本）後，利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，將名單與通知單彙整在一起。  
-[示範教學：匯入出列席人員](https://www.php-pie.net/images/gas/meeting/meeting_c_004.gif)
+[示範教學3：匯入出列席人員](https://www.php-pie.net/images/gas/meeting/meeting_c_004.gif)
 ### 寄發會議通知
-幫第一位輸入電子信箱後，寄給自己一封會議通知。
-![Step005](https://www.php-pie.net/images/gas/meeting/meeting_c_005.gif "Step005")
+幫第一位輸入電子信箱後，寄給自己一封會議通知。  
+[示範教學4：寄發會議通知](https://www.php-pie.net/images/gas/meeting/meeting_c_005.gif)
 ### 製作簽名單
-開啟本程式提供的「臺灣公務機關常用內部會議簽到表」（範本）後，利用試算表進階功能選單的「製作會議簽到表(臺灣專用)」，就能輕鬆完成。
-![Step006](https://www.php-pie.net/images/gas/meeting/meeting_c_006.gif "Step006")
+開啟本程式提供的「臺灣公務機關常用內部會議簽到表」（範本）後，利用試算表進階功能選單的「製作會議簽到表(臺灣專用)」，就能輕鬆完成。  
+[示範教學5：製作簽名單](https://www.php-pie.net/images/gas/meeting/meeting_c_006.gif)
 ## 各項功能詳細說明
 ### 開啟新的會議
 利用既有的「臺灣公務機關常用內部會議通知單」（範本）建立副本後，將會議改為新的名稱，就能開啟新的會議，當然，您自己也可以準備符合自己版面需求的會議通知檔案。將樣版檔案名稱同步更改。更換樣版檔案的方式有2種：
 1. 使用會議通知單檔案的名稱，檔案需要與試算表放在同一個資料夾。
-2. 使用會議通知單檔案的共用連結，檔案位置則無限制。
-![Step007](https://www.php-pie.net/images/gas/meeting/meeting_c_007.gif "Step007")
+2. 使用會議通知單檔案的共用連結，檔案位置則無限制。  
+[示範教學6：開啟新的會議](https://www.php-pie.net/images/gas/meeting/meeting_c_007.gif)
 ### 建立新的出列席名單
 請利用試算表的「名單」工作表，建立起新一輪的「出列席名單」，用來匯入至會議通知單或者製作簽名表。
 1. 您可以在試算表中建立許多不同的會議名單，要用來匯入會議通知單或製作簽名表的那一個，命名為「名單」即可。
 2. 名單中6個預設欄位請務必保留，在「出列席」欄位中，標註「p」表示成為出席身分，標註「a」表示成為列席身分。
    - 小技巧：「出列席」欄位空白時，等於保留成員但不處理。
-3. 排列順序也是匯入會議通知單或製作簽名表時顯示的順序，您也可以新增自訂自己的欄位，方便資料分類整理。
-![Step007-1](https://www.php-pie.net/images/gas/meeting/meeting_c_0075.gif "Step007-1")
+3. 排列順序也是匯入會議通知單或製作簽名表時顯示的順序，您也可以新增自訂自己的欄位，方便資料分類整理。  
+[示範教學7：建立新的出列席名單](https://www.php-pie.net/images/gas/meeting/meeting_c_0075.gif)
 ### 匯入出列席名單至會議通知單
 打開新增的會議通知單檔案，分別在需要的位置上輸入「{{出席}}」與「{{列席}}」，接著利用試算表進階功能選單的「匯入出列席名單(臺灣專用)」，即可將名單與通知單彙整在一起。
 1. 在會議通知單相應的位置上輸入{{出席}}、{{列席}}，使用既有檔案新增的時候，可能需要清除之前套印的名單。
 2. 在「名單」工作表的「出列席」欄位中，試著變更出列席人員的屬性，將第1位不是動物的出席者改為列席（a），其他動物則為出席（p）。
-3. 名單中成員排列的順序，就是匯入時（顯示）的順序。
-![Step008](https://www.php-pie.net/images/gas/meeting/meeting_c_008.gif "Step008")
+3. 名單中成員排列的順序，就是匯入時（顯示）的順序。  
+[示範教學8：匯入出列席名單至會議通知單](https://www.php-pie.net/images/gas/meeting/meeting_c_008.gif)
 ### 添加附件
 您可以為會議通知添加必要的附件，所有成員都收到的共同附件，或者只限某位成員的個別附件，而且附件數量沒有限制。
 1. 附件添加方式3種，(1)檔案名稱、(2)檔案共用連結與(3)資料夾共用連結。
 2. 使用檔案名稱的時候，請將檔案放置於試算表同一個資料夾下。若不是使用Google格式的文件，比如程式的logo圖片，檔案名稱需要輸入「Meeting.png」。
-  - 示範：共同附件用logo圖片，第一位出席成員個別附件為資料夾共用連結，內附5張圖片。
-![Step009](https://www.php-pie.net/images/gas/meeting/meeting_c_009.gif "Step009")
-寄發通知單效果
-![Step010](https://www.php-pie.net/images/gas/meeting/meeting_c_010.gif "Step010")
+  - 示範：共同附件用logo圖片，第一位出席成員個別附件為資料夾共用連結，內附5張圖片。  
+[示範教學9：添加附件](https://www.php-pie.net/images/gas/meeting/meeting_c_009.gif) / [寄發通知單效果](https://www.php-pie.net/images/gas/meeting/meeting_c_010.gif)
 ### 寄發會議通知單
 只要提供正確的電子信箱，會議通知單就能順利寄送。寄送結果會記錄在名單工作表的「處理結果」欄位，有下2種情形無法寄送：
 1. 錯誤：電子信箱格式有問題。
 2. 錯誤：個別附件格式有問題。
 - 共同附件格式錯誤時，不會寄送也不會記錄。
 ### 自由新增出席名單中的欄位
-只要不要刪除或修改紅色欄位與標題，您可以在名單工作表中新增自己的欄位，隨意調整欄位的順序，方便您整理資料。
-![Step011](https://www.php-pie.net/images/gas/meeting/meeting_c_011s.gif "Step011")
+只要不要刪除或修改紅色欄位與標題，您可以在名單工作表中新增自己的欄位，隨意調整欄位的順序，方便您整理資料。  
+[示範教學10：自由新增出席名單中的欄位](https://www.php-pie.net/images/gas/meeting/meeting_c_011s.gif)
 ### 將欄位資料套用到信件內容
 只要利用{{欄位標題}}，您就可以將名單中的資料套印到會議通知信件內容文字中，讓整封信讀起來像是客製化。
-- 示範：將剛剛新增的欄位「綽號」，套印到信件內容中。
-![Step012](https://www.php-pie.net/images/gas/meeting/meeting_c_012.gif "Step012")
+- 示範：將剛剛新增的欄位「綽號」，套印到信件內容中。  
+[示範教學11：將欄位資料套用到信件內容](https://www.php-pie.net/images/gas/meeting/meeting_c_012.gif)
 ### 將會議行程加入「Google日曆」
-在寄發出去的會議通知信中，程式會依據您所填寫的會議資料，為您自動建立「Google日曆」的連結，方便收信的會議成員可以管理行程。
-![Step013](https://www.php-pie.net/images/gas/meeting/meeting_c_013.gif "Step013")
+在寄發出去的會議通知信中，程式會依據您所填寫的會議資料，為您自動建立「Google日曆」的連結，方便收信的會議成員可以管理行程。  
+[示範教學12：將會議行程加入「Google日曆」](https://www.php-pie.net/images/gas/meeting/meeting_c_013.gif)
 ### 製作簽到表
 最後，會議場合最重要的簽到表，總共提供3種格式：
-1. 臺灣（中文）專用格式
-![Step014](https://www.php-pie.net/images/gas/meeting/meeting_c_014.gif "Step014")
-2. 歐美格式（含成員資料）
-![Step015](https://www.php-pie.net/images/gas/meeting/meeting_c_015.gif "Step016")
-3. 歐美格式（不含成員資料）
-![Step016](https://www.php-pie.net/images/gas/meeting/meeting_c_016.gif "Step016")
+1. 臺灣（中文）專用格式 [臺灣（中文）專用格式示範畫面](https://www.php-pie.net/images/gas/meeting/meeting_c_014.gif)
+2. 歐美格式（含成員資料） [歐美格式（含成員資料）示範畫面](https://www.php-pie.net/images/gas/meeting/meeting_c_015.gif)
+3. 歐美格式（不含成員資料） [歐美格式（不含成員資料）示範畫面](https://www.php-pie.net/images/gas/meeting/meeting_c_016.gif)
 ### 簽到表自訂顯示組合
-如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。
-![Step017](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif "Step017")
+如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。  
+[示範教學13：簽到表自訂顯示組合](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif)
 # English version
 :grin: To Be Continued :grin:  
 ## Quick preview
