@@ -88,7 +88,8 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 :grin: To Be Continued :grin:  
 ## Quick preview
 ### Make a copy
-Please be sure to use the "Make a copy" method to copy the file to your Google Drive. It is recommended that in addition to the spreadsheet of the main program, you can also copy the "Notice of International Contributor Recognition Conference" and "Sign-in Sheet of Coordination Conference". They can be used as a test when you try it out for the first time. 's files. (Please rename and clear the "copy of" in the file name)
+Please be sure to use the "Make a copy" method to copy the file to your Google Drive. It is recommended that in addition to the spreadsheet of the main program, you can also copy the "Notice of International Contributor Recognition Conference" and "Sign-in Sheet of Coordination Conference". They can be used as a test when you try it out for the first time. 's files. (Please rename and clear the "copy of" in the file name)  
+[Demonstration teaching 1：Make a copy](https://www.php-pie.net/images/gas/meeting/meeting_e_001.gif)
 ### Founction menu "Advanced"
 Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.
 ### Send a meeeting notice
