@@ -91,7 +91,14 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 Please be sure to use the "Make a copy" method to copy the file to your Google Drive. It is recommended that in addition to the spreadsheet of the main program, you can also copy the "Notice of International Contributor Recognition Conference" and "Sign-in Sheet of Coordination Conference". They can be used as a test when you try it out for the first time. 's files. (Please rename and clear the "copy of" in the file name)  
 [Demonstration teaching 1：Make a copy](https://www.php-pie.net/images/gas/meeting/meeting_e_001.gif)
 ### Founction menu "Advanced"
-Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.
+Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.  
+[Demonstration teaching 2-1：Founction menu "Advanced"](https://www.php-pie.net/images/gas/meeting/meeting_e_002.gif)
+[Demonstration teaching 2-2：Authorize](https://www.php-pie.net/images/gas/meeting/meeting_e_003.gif)
+### Open the meeting notice template and import the attendees
+- **If you do not need to use Taiwanese format, please skip this step.**  
+
+After opening the "Template notice of internal meeting of Taiwan's public agencies" (template) provided by this program, use "Merge 'List' to Notice (Taiwan Type)" in the advanced function menu of the spreadsheet to compile the list and notice together.  
+[Demonstration teaching 3：Open the meeting notice template and import the attendees](https://www.php-pie.net/images/gas/meeting/meeting_e_004.gif)
 ### Send a meeeting notice
 After entering the email address for the first person, send yourself a meeting notice.
 ## Manual
