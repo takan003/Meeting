@@ -123,5 +123,11 @@ As long as you do not delete or modify the red columns and titles, you can add y
 ### Apply field data to message content
 By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.
 ### Add meeting schedule to Google Calendar
+In the meeting notification letter sent out, the program will automatically create a link to "Google Calendar" for you based on the meeting information you filled in, so that the meeting members who receive the letter can manage their schedules.
 ### Make a sign-in sheet
+Finally, the most important sign-in sheet for meetings is provided in 3 formats:
+1. Taiwan (Chinese) specific format.
+2. European and United States formats (including member information).
+3. European and United States formats (excluding member information).
 ### Customized display combination of sign-in sheet
+If you want our newly added custom field titles and data to appear on the sign-in sheet, please use the "Fields Combination" in the settings worksheet. The demonstration uses "Taiwan (Chinese) specific format" and "European and United States formats (including member information)" as examples. .
