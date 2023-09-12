@@ -92,7 +92,7 @@ Please be sure to use the "Make a copy" method to copy the file to your Google D
 [Demonstration teaching 1：Make a copy](https://www.php-pie.net/images/gas/meeting/meeting_e_001.gif)
 ### Founction menu "Advanced"
 Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.  
-[Demonstration teaching 2-1：Founction menu "Advanced"](https://www.php-pie.net/images/gas/meeting/meeting_e_002.gif)
+[Demonstration teaching 2-1：Founction menu "Advanced"](https://www.php-pie.net/images/gas/meeting/meeting_e_002.gif) /
 [Demonstration teaching 2-2：Authorize](https://www.php-pie.net/images/gas/meeting/meeting_e_003.gif)
 ### Open the meeting notice template and import the attendees
 - **If you do not need to use Taiwanese format, please skip this step.**  
@@ -113,7 +113,9 @@ Please use the "List" sheet of the spreadsheet to create a new "Attendance List"
    - Tips: When the "Present" field is blank, it means that the member is retained but not processed.
 3. The sorting order is also the order displayed when importing meeting notices or making signature forms. You can also add and customize your own fields to facilitate classifying and organizing data.
 ### Import attendance list to meeting notice
-In Taiwan, we will display the attendance list on the meeting notice. Open the newly added meeting notice file, enter "{{present}}" and "{{attendance}}" in the positions you want, and then use the "Merge "List" to Notice (Taiwan Type)" in the advanced menu , you can put the list and the notice together.
+- **If you do not need to use Taiwanese format, please skip this step.**  
+
+In Taiwan, we will display the attendance list on the meeting notice. Open the newly added meeting notice file, enter "{{present}}" and "{{attendance}}" in the positions you want, and then use the "Merge 'List' to Notice (Taiwan format)" in the advanced menu , you can put the list and the notice together.
 1. Enter {{present}} and {{attendance}} in the position you want on the meeting notice. When editing using the previous file, you may need to clear the previously overprinted list.
 2. In the "Present" column of the "List" sheet, try to change the attendance of each person. Change the first attendee who is not an animal to attend (a), and other animals to present (p) .
 3. The order in which the members are listed is the order in which they are imported (displayed).
