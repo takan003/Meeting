@@ -129,7 +129,8 @@ In Taiwan, we will display the attendance list on the meeting notice. Open the n
 ### Add attachments
 You can add necessary attachments to the meeting notification letter, common attachments received by all members, or individual attachments limited to a certain member, and there is no limit to the number of attachments.
 1. There are 3 ways to add attachments, (1) file name, (2) file sharing link, (3) folder sharing link.
-2. When using a file name, please place the file in the same folder of the spreadsheet. If you are not using a Google format file, such as a program logo image, you need to enter "Meeting.png" as the file name.
+2. When using a file name, please place the file in the same folder of the spreadsheet. If you are not using a Google format file, such as a program logo image, you need to enter "Meeting.png" as the file name.  
+[Demonstration teaching 9：Add attachments](https://www.php-pie.net/images/gas/meeting/meeting_e_010.gif) / [Effect of sending notice](https://www.php-pie.net/images/gas/meeting/meeting_e_011.gif)
 ### Send a meeeting notice
 As long as you provide the correct email address, the meeting notice can be sent. The delivery result will be recorded in the "Notice" field of the list sheet. There are two situations where delivery cannot be performed:
 1. Error: There is a problem with the email format.
