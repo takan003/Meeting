@@ -103,7 +103,8 @@ After opening the "Template notice of internal meeting of Taiwan's public agenci
 After entering the email address for the first person, send yourself a meeting notice.  
 [Demonstration teaching 4：Send a meeeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_005.gif)
 ### Make a sign-in sheet
-After opening the "Sign-in Sheet of International Contributor Recognition Conference" (template) provided by this program, you can easily complete it by using "Make a sing-in sheet A" in the advanced function menu of the spreadsheet.
+After opening the "Sign-in Sheet of International Contributor Recognition Conference" (template) provided by this program, you can easily complete it by using "Make a sing-in sheet A" in the advanced function menu of the spreadsheet.  
+[Demonstration teaching 5：Make a sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_006.gif)
 ## Manual
 ### Build a new meeting
 Use the "Notice of International Contributor Recognition Conference" (template) provided by us to create a copy, change the name and content to your own, and start a new meeting. Of course, you can also prepare a layout that meets your needs as a new meeting notice file. Next, please enter the file of the new meeting into "Notice's Template". There are two ways to enter it:
