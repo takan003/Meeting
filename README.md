@@ -109,20 +109,23 @@ After opening the "Sign-in Sheet of International Contributor Recognition Confer
 ### Build a new meeting
 Use the "Notice of International Contributor Recognition Conference" (template) provided by us to create a copy, change the name and content to your own, and start a new meeting. Of course, you can also prepare a layout that meets your needs as a new meeting notice file. Next, please enter the file of the new meeting into "Notice's Template". There are two ways to enter it:
 1. Use the name of the meeting notice file. The file needs to be placed in the same folder as the spreadsheet.
-2. Use the shared link of the meeting note file, and there is no limit on the file location.
+2. Use the shared link of the meeting note file, and there is no limit on the file location.  
+[Demonstration teaching 6：Build a new meeting](https://www.php-pie.net/images/gas/meeting/meeting_e_007.gif)
 ### Create a new attendance list
 Please use the "List" sheet of the spreadsheet to create a new "Attendance List" for importing into the meeting notice or making a sign-in sheet.
 1. You can create many different meeting lists in your spreadsheet. Just name "List" the one you want to use to import meeting notices or create sign-in sheets.
 2. Be sure to keep the 6 default red fields in the list. In the "Present" field, mark "p" to indicate "present", and mark "a" to indicate "in attendance".
    - Tips: When the "Present" field is blank, it means that the member is retained but not processed.
-3. The sorting order is also the order displayed when importing meeting notices or making signature forms. You can also add and customize your own fields to facilitate classifying and organizing data.
+3. The sorting order is also the order displayed when importing meeting notices or making signature forms. You can also add and customize your own fields to facilitate classifying and organizing data.  
+[Demonstration teaching 7：Create a new attendance list](https://www.php-pie.net/images/gas/meeting/meeting_e_008.gif)
 ### Import attendance list to meeting notice
 - **If you do not need to use Taiwanese format, please skip this step.**  
 
 In Taiwan, we will display the attendance list on the meeting notice. Open the newly added meeting notice file, enter "{{present}}" and "{{attendance}}" in the positions you want, and then use the "Merge 'List' to Notice (Taiwan format)" in the advanced menu , you can put the list and the notice together.
 1. Enter {{present}} and {{attendance}} in the position you want on the meeting notice. When editing using the previous file, you may need to clear the previously overprinted list.
 2. In the "Present" column of the "List" sheet, try to change the attendance of each person. Change the first attendee who is not an animal to attend (a), and other animals to present (p) .
-3. The order in which the members are listed is the order in which they are imported (displayed).
+3. The order in which the members are listed is the order in which they are imported (displayed).  
+[Demonstration teaching 8：Import attendance list to meeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_009.gif)
 ### Add attachments
 You can add necessary attachments to the meeting notification letter, common attachments received by all members, or individual attachments limited to a certain member, and there is no limit to the number of attachments.
 1. There are 3 ways to add attachments, (1) file name, (2) file sharing link, (3) folder sharing link.
