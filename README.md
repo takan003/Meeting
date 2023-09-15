@@ -101,6 +101,7 @@ After opening the "Template notice of internal meeting of Taiwan's public agenci
 [Demonstration teaching 3：Open the meeting notice template and import the attendees](https://www.php-pie.net/images/gas/meeting/meeting_e_004.gif)
 ### Send a meeeting notice
 After entering the email address for the first person, send yourself a meeting notice.
+[Demonstration teaching 4：Send a meeeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_005.gif)
 ## Manual
 ### Build a new meeting
 Use the "Notice of International Contributor Recognition Conference" (template) provided by us to create a copy, change the name and content to your own, and start a new meeting. Of course, you can also prepare a layout that meets your needs as a new meeting notice file. Next, please enter the file of the new meeting into "Notice's Template". There are two ways to enter it:
