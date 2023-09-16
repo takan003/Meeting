@@ -85,7 +85,6 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 如果簽到表希望能出現我們自己新增的欄位標題與資料，請使用設定工作表中的「簽到表自訂顯示組合」，示範是以臺灣專用格式與歐美（含成員資料）為例子。  
 [示範教學13：簽到表自訂顯示組合](https://www.php-pie.net/images/gas/meeting/meeting_c_017.gif)
 # English version
-:grin: To Be Continued :grin:  
 ## Quick preview
 ### Make a copy
 Please be sure to use the "Make a copy" method to copy the file to your Google Drive. It is recommended that in addition to the spreadsheet of the main program, you can also copy the "Notice of International Contributor Recognition Conference" and "Sign-in Sheet of Coordination Conference". They can be used as a test when you try it out for the first time. 's files. (Please rename and clear the "copy of" in the file name)  
