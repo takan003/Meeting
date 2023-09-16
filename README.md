@@ -88,35 +88,35 @@ Copyright (c) 2023 Chang, Chia-Cheng 張家誠
 ## Quick preview
 ### Make a copy
 Please be sure to use the "Make a copy" method to copy the file to your Google Drive. It is recommended that in addition to the spreadsheet of the main program, you can also copy the "Notice of International Contributor Recognition Conference" and "Sign-in Sheet of Coordination Conference". They can be used as a test when you try it out for the first time. 's files. (Please rename and clear the "copy of" in the file name)  
-[Demonstration teaching 1：Make a copy](https://www.php-pie.net/images/gas/meeting/meeting_e_001.gif)
+[Demo 1：Make a copy](https://www.php-pie.net/images/gas/meeting/meeting_e_001.gif)
 ### Founction menu "Advanced"
 Please open the spreadsheet "Meeting!". After a short wait, "Advanced" will appear in the upper function menu (you may need to refresh the web page 1-2 times for the first time). Please try the "Send a meeting notice" of the advanced function. ”, your authorization is required when using it for the first time.  
-[Demonstration teaching 2-1：Founction menu "Advanced"](https://www.php-pie.net/images/gas/meeting/meeting_e_002.gif) /
-[Demonstration teaching 2-2：Authorize](https://www.php-pie.net/images/gas/meeting/meeting_e_003.gif)
+[Demo 2-1：Founction menu "Advanced"](https://www.php-pie.net/images/gas/meeting/meeting_e_002.gif) /
+[Demo 2-2：Authorize](https://www.php-pie.net/images/gas/meeting/meeting_e_003.gif)
 ### Open the meeting notice template and import the attendees
 - **If you do not need to use Taiwanese format, please skip this step.**  
 
 After opening the "Template notice of internal meeting of Taiwan's public agencies" (template) provided by this program, use "Merge 'List' to Notice (Taiwan Type)" in the advanced function menu of the spreadsheet to compile the list and notice together.  
-[Demonstration teaching 3：Open the meeting notice template and import the attendees](https://www.php-pie.net/images/gas/meeting/meeting_e_004.gif)
+[Demo 3：Open the meeting notice template and import the attendees](https://www.php-pie.net/images/gas/meeting/meeting_e_004.gif)
 ### Send a meeeting notice
 After entering the email address for the first person, send yourself a meeting notice.  
-[Demonstration teaching 4：Send a meeeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_005.gif)
+[Demo 4：Send a meeeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_005.gif)
 ### Make a sign-in sheet
 After opening the "Sign-in Sheet of International Contributor Recognition Conference" (template) provided by this program, you can easily complete it by using "Make a sing-in sheet A" in the advanced function menu of the spreadsheet.  
-[Demonstration teaching 5：Make a sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_006.gif)
+[Demo 5：Make a sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_006.gif)
 ## Manual
 ### Build a new meeting
 Use the "Notice of International Contributor Recognition Conference" (template) provided by us to create a copy, change the name and content to your own, and start a new meeting. Of course, you can also prepare a layout that meets your needs as a new meeting notice file. Next, please enter the file of the new meeting into "Notice's Template". There are two ways to enter it:
 1. Use the name of the meeting notice file. The file needs to be placed in the same folder as the spreadsheet.
 2. Use the shared link of the meeting note file, and there is no limit on the file location.  
-[Demonstration teaching 6：Build a new meeting](https://www.php-pie.net/images/gas/meeting/meeting_e_007.gif)
+[Demo 6：Build a new meeting](https://www.php-pie.net/images/gas/meeting/meeting_e_007.gif)
 ### Create a new attendance list
 Please use the "List" sheet of the spreadsheet to create a new "Attendance List" for importing into the meeting notice or making a sign-in sheet.
 1. You can create many different meeting lists in your spreadsheet. Just name "List" the one you want to use to import meeting notices or create sign-in sheets.
 2. Be sure to keep the 6 default red fields in the list. In the "Present" field, mark "p" to indicate "present", and mark "a" to indicate "in attendance".
    - Tips: When the "Present" field is blank, it means that the member is retained but not processed.
 3. The sorting order is also the order displayed when importing meeting notices or making signature forms. You can also add and customize your own fields to facilitate classifying and organizing data.  
-[Demonstration teaching 7：Create a new attendance list](https://www.php-pie.net/images/gas/meeting/meeting_e_008.gif)
+[Demo 7：Create a new attendance list](https://www.php-pie.net/images/gas/meeting/meeting_e_008.gif)
 ### Import attendance list to meeting notice
 - **If you do not need to use Taiwanese format, please skip this step.**  
 
@@ -124,12 +124,12 @@ In Taiwan, we will display the attendance list on the meeting notice. Open the n
 1. Enter {{present}} and {{attendance}} in the position you want on the meeting notice. When editing using the previous file, you may need to clear the previously overprinted list.
 2. In the "Present" column of the "List" sheet, try to change the attendance of each person. Change the first attendee who is not an animal to attend (a), and other animals to present (p) .
 3. The order in which the members are listed is the order in which they are imported (displayed).  
-[Demonstration teaching 8：Import attendance list to meeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_009.gif)
+[Demo 8：Import attendance list to meeting notice](https://www.php-pie.net/images/gas/meeting/meeting_e_009.gif)
 ### Add attachments
 You can add necessary attachments to the meeting notification letter, common attachments received by all members, or individual attachments limited to a certain member, and there is no limit to the number of attachments.
 1. There are 3 ways to add attachments, (1) file name, (2) file sharing link, (3) folder sharing link.
 2. When using a file name, please place the file in the same folder of the spreadsheet. If you are not using a Google format file, such as a program logo image, you need to enter "Meeting.png" as the file name.  
-[Demonstration teaching 9：Add attachments](https://www.php-pie.net/images/gas/meeting/meeting_e_010.gif) / [Effect of sending notice](https://www.php-pie.net/images/gas/meeting/meeting_e_011.gif)
+[Demo 9：Add attachments](https://www.php-pie.net/images/gas/meeting/meeting_e_010.gif) / [Effect of sending notice](https://www.php-pie.net/images/gas/meeting/meeting_e_011.gif)
 ### Send a meeeting notice
 As long as you provide the correct email address, the meeting notice can be sent. The delivery result will be recorded in the "Notice" field of the list sheet. There are two situations where delivery cannot be performed:
 1. Error: There is a problem with the email format.
@@ -137,19 +137,19 @@ As long as you provide the correct email address, the meeting notice can be sent
  - If the common attachment format is incorrect, it will not be sent or recorded.
 ### Add a custom column to the list
 As long as you do not delete or modify the red columns and titles, you can add your own columns to the "List" sheet and adjust the order of the columns at will to facilitate your data organization.  
-[Demonstration teaching 10：Add a custom column to the list](https://www.php-pie.net/images/gas/meeting/meeting_e_012.gif)
+[Demo 10：Add a custom column to the list](https://www.php-pie.net/images/gas/meeting/meeting_e_012.gif)
 ### Apply field data to letter's content
 By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.  
-[Demonstration teaching 11：Apply field data to letter's content](https://www.php-pie.net/images/gas/meeting/meeting_e_013.gif)
+[Demo 11：Apply field data to letter's content](https://www.php-pie.net/images/gas/meeting/meeting_e_013.gif)
 ### Add meeting schedule to Google Calendar
 In the meeting notification letter sent out, the program will automatically create a link to "Google Calendar" for you based on the meeting information you filled in, so that the meeting members who receive the letter can manage their schedules.  
-[Demonstration teaching 12：Add meeting schedule to Google Calendar](https://www.php-pie.net/images/gas/meeting/meeting_e_014.gif)
+[Demo 12：Add meeting schedule to Google Calendar](https://www.php-pie.net/images/gas/meeting/meeting_e_014.gif)
 ### Make a sign-in sheet
 Finally, the most important sign-in sheet for meetings is provided in 3 formats:  
-[Demonstration teaching 13：Create a new sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_015.gif)
+[Demo 13：Create a new sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_015.gif)
 1. Taiwan (Chinese) specific format.
-2. European and United States formats (including member information).[Demonstration video](https://www.php-pie.net/images/gas/meeting/meeting_e_016.gif)
-3. European and United States formats (excluding member information).[Demonstration video](https://www.php-pie.net/images/gas/meeting/meeting_e_017.gif)
+2. European and United States formats (including member information).[Demo](https://www.php-pie.net/images/gas/meeting/meeting_e_016.gif)
+3. European and United States formats (excluding member information).[Demo](https://www.php-pie.net/images/gas/meeting/meeting_e_017.gif)
 ### Customized display combination of sign-in sheet
 If you want our newly added custom field titles and data to appear on the sign-in sheet, please use the "Fields Combination" in the settings worksheet. The demonstration uses "Taiwan (Chinese) specific format" and "European and United States formats (including member information)" as examples.  
-[Demonstration teaching 14：Customized display combination of sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_018.gif)
+[Demo 14：Customized display combination of sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_018.gif)
