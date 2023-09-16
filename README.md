@@ -138,9 +138,10 @@ As long as you provide the correct email address, the meeting notice can be sent
  - If the common attachment format is incorrect, it will not be sent or recorded.
 ### Add a custom column to the list
 As long as you do not delete or modify the red columns and titles, you can add your own columns to the "List" sheet and adjust the order of the columns at will to facilitate your data organization.  
-[Demonstration teaching 9：Add a custom column to the list](https://www.php-pie.net/images/gas/meeting/meeting_e_012.gif)
+[Demonstration teaching 10：Add a custom column to the list](https://www.php-pie.net/images/gas/meeting/meeting_e_012.gif)
 ### Apply field data to message content
-By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.
+By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.  
+[Demonstration teaching 11：Apply field data to message content](https://www.php-pie.net/images/gas/meeting/meeting_e_013.gif)
 ### Add meeting schedule to Google Calendar
 In the meeting notification letter sent out, the program will automatically create a link to "Google Calendar" for you based on the meeting information you filled in, so that the meeting members who receive the letter can manage their schedules.
 ### Make a sign-in sheet
