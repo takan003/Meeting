@@ -143,11 +143,14 @@ As long as you do not delete or modify the red columns and titles, you can add y
 By using {{your custom column name}}, you can overprint the information from the list into the text of the meeting notification letter, making the entire letter read as customized.  
 [Demonstration teaching 11：Apply field data to letter's content](https://www.php-pie.net/images/gas/meeting/meeting_e_013.gif)
 ### Add meeting schedule to Google Calendar
-In the meeting notification letter sent out, the program will automatically create a link to "Google Calendar" for you based on the meeting information you filled in, so that the meeting members who receive the letter can manage their schedules.
+In the meeting notification letter sent out, the program will automatically create a link to "Google Calendar" for you based on the meeting information you filled in, so that the meeting members who receive the letter can manage their schedules.  
+[Demonstration teaching 12：Add meeting schedule to Google Calendar](https://www.php-pie.net/images/gas/meeting/meeting_e_014.gif)
 ### Make a sign-in sheet
-Finally, the most important sign-in sheet for meetings is provided in 3 formats:
+Finally, the most important sign-in sheet for meetings is provided in 3 formats:  
+[Demonstration teaching 13：Create a new sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_015.gif)
 1. Taiwan (Chinese) specific format.
-2. European and United States formats (including member information).
-3. European and United States formats (excluding member information).
+2. European and United States formats (including member information).[Demonstration video](https://www.php-pie.net/images/gas/meeting/meeting_e_016.gif)
+3. European and United States formats (excluding member information).[Demonstration video](https://www.php-pie.net/images/gas/meeting/meeting_e_017.gif)
 ### Customized display combination of sign-in sheet
-If you want our newly added custom field titles and data to appear on the sign-in sheet, please use the "Fields Combination" in the settings worksheet. The demonstration uses "Taiwan (Chinese) specific format" and "European and United States formats (including member information)" as examples. .
+If you want our newly added custom field titles and data to appear on the sign-in sheet, please use the "Fields Combination" in the settings worksheet. The demonstration uses "Taiwan (Chinese) specific format" and "European and United States formats (including member information)" as examples.  
+[Demonstration teaching 14：Customized display combination of sign-in sheet](https://www.php-pie.net/images/gas/meeting/meeting_e_018.gif)
